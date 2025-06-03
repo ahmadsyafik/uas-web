@@ -40,7 +40,7 @@ export default function Home() {
       <header className="container mx-auto px-4 py-6">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold text-white">
-            Cine<span className="text-blue-600">Dark</span>
+            Cine<span className="text-red-600">Dark</span>
           </Link>
           <div className="flex items-center gap-4">
             <Link href="/login">
