@@ -51,5 +51,5 @@ npm run dev
 Website akan berjalan di http://localhost:3000.
 
 ## Dibuat oleh :
-Ahmad Syafi'al Anam (3124521036)
-Marino Rizky Pradana Putra (31245210470
+- Ahmad Syafi'al Anam (3124521036)
+- Marino Rizky Pradana Putra (31245210470)
