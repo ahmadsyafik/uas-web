@@ -23,7 +23,7 @@ Cinedark merupakan layanan webiste streaming film secara gratis untuk di tonton,
 
 ## Cara Menjalankan Website
 
-### 1.  Install pnpm jika belum:
+### 1.  Install pnpm :
 
   ```bash
   npm install -g pnpm
@@ -33,7 +33,7 @@ Cinedark merupakan layanan webiste streaming film secara gratis untuk di tonton,
 https://github.com/ahmadsyafik/uas-web.git
 cd uas-web
 ```
-### 3. Install Depedensi jika belum :
+### 3. Install Depedensi :
 
 ```bash
 npm install
